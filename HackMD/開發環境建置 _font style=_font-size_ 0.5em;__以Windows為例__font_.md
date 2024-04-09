@@ -1,0 +1,62 @@
+---
+title: '開發環境建置 <font style="font-size: 0.5em;">以Windows為例</font>'
+tags: [Python, 開發環境]
+
+---
+
+{%hackmd  @dzif24x25/IBXIWNXgTju0h2AKtSaLkA %}
+
+###### tags: `Python` `開發環境`
+
+# 開發環境建置 <font style="font-size: 0.5em;">以Windows為例</font>
+
+## 安裝Python
+
+前往[Python官網](https://www.python.org/)
+![](https://i.imgur.com/evxbqM5.png)
+
+選擇"Downloads"，網站會自動偵測你的作業系統
+![](https://i.imgur.com/vhz2bm3.png)
+
+選擇"Download Python 3.x"，即可下載Python安裝檔
+![](https://i.imgur.com/GPy2Tii.png)
+
+:::info
+註：Python的版本，若無特殊需求（如：使用的Package有要求Python版本），建議直接安裝最新版本。
+:::
+
+下載完安裝檔後，執行安裝檔案，確認「這個勾勾」有打開後，按下「Install Now」即可安裝
+![](https://i.imgur.com/3GsmQ60.png)
+
+安裝完成後，可以在使用命令提示字元(CMD)中使用以下指令來測試Python是否安裝成功
+```bash
+python --version
+```
+![](https://i.imgur.com/wOyDBI6.png)
+如果沒有錯誤訊息，恭喜你，已經成功安裝Python了！
+
+## VS Code 安裝
+前往[VS Code官網](https://code.visualstudio.com/)，選擇"Download for Windows"，即可下載安裝檔
+![](https://i.imgur.com/iEOqA9X.png)
+
+執行安裝檔（同意之後，一直下一步就對了）
+![](https://i.imgur.com/F6Sz97Q.png)
+
+安裝完成VS Code之後，開啟VS Code
+![](https://i.imgur.com/qWCCOZw.png)
+
+選擇左邊的Extensions
+![](https://i.imgur.com/NxTyn3Z.png)
+
+如果偏好中文，可以安裝中文的Extension
+![](https://i.imgur.com/UNMOOov.png)
+
+安裝Python的Extension
+![](https://i.imgur.com/Axc7Nw2.png)
+
+如此一來，你就成功安裝完VS Code了！
+
+
+:::info
+點此前往簡報版： https://hackmd.io/@dzif24x25/S1BjSprCo
+:::
